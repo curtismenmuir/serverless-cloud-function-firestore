@@ -1,0 +1,18 @@
+{
+  "name": "google-nodejs",
+  "version": "0.1.0",
+  "description": "Sample project for NodeJS GCP Cloud Function using Serverless framework. Creates example collections and documents in Firestore DB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Curtis Menmuir",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "serverless-google-cloudfunctions": "^2.3.2"
+  },
+  "dependencies": {
+    "@google-cloud/firestore": "2.2.4"
+  }
+}
