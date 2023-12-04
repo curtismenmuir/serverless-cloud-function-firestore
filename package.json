@@ -13,6 +13,6 @@
     "serverless-google-cloudfunctions": "^2.3.2"
   },
   "dependencies": {
-    "@google-cloud/firestore": "2.2.4"
+    "@google-cloud/firestore": "6.2.0"
   }
 }
